@@ -5,3 +5,6 @@ CafeNova is a fast-growing casual dining chain offering a wide range of meals an
 
 I was tasked to **clean, analyze, and deliver insights** using historical sales data. The goal was to uncover what’s working, what’s not, and make clear recommendations — all presented in a professional **interactive dashboard**.
 
+## Dataset Used
+[CafeNova Dataset](https://github.com/Melvi-kene/CAFENOVA-DATA-ANALYSIS/blob/main/CAFENOVA_EKENE_OZ0BIALU_DASHBOARD.xlsx)
+
