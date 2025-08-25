@@ -19,3 +19,8 @@ I was tasked to **clean, analyze, and deliver insights** using historical sales 
 - Top 4 Customers  
 - Interactive Dashboard [View Dashboard Screenshot](https://github.com/Melvi-kene/CAFENOVA-DATA-ANALYSIS/blob/main/scrnli_RDoF6e6f3FZki6.png)
 
+## Process
+1. Verified data for missing values and anomalies, then cleaned accordingly.  
+2. Ensured data consistency in type, format, and values.  
+3. Created pivot tables to answer the KPIs.  
+4. Merged all pivot tables into a single interactive dashboard using **slicers** for dynamic analysis.
