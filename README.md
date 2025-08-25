@@ -27,3 +27,18 @@ I was tasked to **clean, analyze, and deliver insights** using historical sales 
 
 ## Dashboard Screenshot
 ![CafeNova Dashboard](https://github.com/Melvi-kene/CAFENOVA-DATA-ANALYSIS/blob/main/scrnli_RDoF6e6f3FZki6.png)
+
+
+## Project Insights
+
+### Performance Highlights
+- Main dishes generate the most revenue, led by **Pasta Alfredo** and **Grilled Chicken**.  
+- Loyal customers, like `CUST_089`, contribute significantly to repeat orders.  
+- Peak sales in **October 2022** and **May 2023** indicate seasonal opportunities.  
+- **Cash** and **credit cards** are the most preferred payment methods.
+
+### Performance Gaps
+- Total sales declined in 2023 compared to 2022.  
+- **February** recorded the lowest sales in both years.  
+- **December** underperformed despite being a holiday month.  
+- Digital wallet usage remains low compared to other payment options.
