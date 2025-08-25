@@ -24,3 +24,6 @@ I was tasked to **clean, analyze, and deliver insights** using historical sales 
 2. Ensured data consistency in type, format, and values.  
 3. Created pivot tables to answer the KPIs.  
 4. Merged all pivot tables into a single interactive dashboard using **slicers** for dynamic analysis.
+
+## Dashboard Screenshot
+![CafeNova Dashboard](https://github.com/Melvi-kene/CAFENOVA-DATA-ANALYSIS/blob/main/scrnli_RDoF6e6f3FZki6.png)
