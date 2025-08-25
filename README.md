@@ -8,3 +8,14 @@ I was tasked to **clean, analyze, and deliver insights** using historical sales 
 ## Dataset Used
 [CafeNova Dataset](https://github.com/Melvi-kene/CAFENOVA-DATA-ANALYSIS/blob/main/CAFENOVA_EKENE_OZ0BIALU_DASHBOARD.xlsx)
 
+## Key Questions (KPIs)
+- Total Revenue  
+- Best Selling Category  
+- Best Selling Item  
+- Number of Unique Customers  
+- Monthly Sales Trend  
+- Year with Highest Sales & Orders  
+- Most Used Payment Method  
+- Top 4 Customers  
+- Interactive Dashboard [View Dashboard Screenshot](https://github.com/Melvi-kene/CAFENOVA-DATA-ANALYSIS/blob/main/scrnli_RDoF6e6f3FZki6.png)
+
