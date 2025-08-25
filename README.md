@@ -1,2 +1,7 @@
-# CAFENOVA-DATA-ANALYSIS
-Cleaned and prepared the Cafe Nova dataset by handling missing values and inconsistencies. Explored sales trends, customer preferences, and product performance. Created visualizations of peak sales periods and top items, then provided insights and recommendations to support better business decisions.
+# CAFENOVA DATA ANALYSIS (Interactive Dashboard Using MS Excel) 
+
+## Project Objective
+CafeNova is a fast-growing casual dining chain offering a wide range of meals and beverages across multiple outlets. While sales have grown steadily, the management team was unsure of what items, categories, and customer segments were driving the most value or where they were losing money.
+
+I was tasked to **clean, analyze, and deliver insights** using historical sales data. The goal was to uncover what’s working, what’s not, and make clear recommendations — all presented in a professional **interactive dashboard**.
+
