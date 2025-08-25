@@ -42,3 +42,13 @@ I was tasked to **clean, analyze, and deliver insights** using historical sales 
 - **February** recorded the lowest sales in both years.  
 - **December** underperformed despite being a holiday month.  
 - Digital wallet usage remains low compared to other payment options.
+
+
+## Strategic Recommendations
+- Launch festive campaigns and targeted promotions in **December** and **February**.  
+- Implement a loyalty or referral program to retain customers and attract new ones.  
+- Introduce new variations of best-selling main dishes.  
+- Consider bundling items (e.g., main + starter) to increase order value.  
+- Encourage digital wallet use through small discounts or reward incentives.  
+- Investigate causes of 2023 sales drop via customer feedback or external factors.  
+- Set up **monthly sales reviews** to track trends and address early performance dips.
